@@ -2,9 +2,6 @@
 
 Aegis, ebeveynlerin çocuklarının dijital ve fiziksel güvenliğini sağlaması için geliştirilmiş, React Native ve Firebase tabanlı bir mobil ebeveyn takip sistemidir. Bu depo, sistemin kontrol merkezi olan **Ebeveyn** uygulamasını barındırır.
 
-## 📸 Ekran Görüntüleri
-*(Buraya daha sonra uygulamanın ekran görüntülerini ekleyebilirsin. Örn: `![Ana Ekran](link)`)*
-
 ## 🚀 Öne Çıkan Özellikler
 * **Canlı Konum Takibi:** Google Maps entegrasyonu ile çocuğun anlık konumunu harita üzerinden izleme.
 * **Güvenli Bölge (Geofence):** Belirlenen güvenli alanların dışına çıkıldığında anında bildirim alma.
@@ -45,4 +42,5 @@ SIGNALING_SERVER_URL=senin_webrtc_sunucu_url
 Uygulamayı başlatın:
 
 Bash
-npx expo start
+npx expo start 
+box Expo run android
